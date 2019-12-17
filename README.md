@@ -1,2 +1,2 @@
 # screamy-bird
-Flappy bird but you scream to control the bird
+Voice controlled flappy bird
